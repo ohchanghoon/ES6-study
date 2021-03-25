@@ -2,7 +2,7 @@
 Dream coding
 
 git add .<br>
-git status
-git commit -m "message"
-git status
-git push origin master
+git status<br>
+git commit -m "message"<br>
+git status<br>
+git push origin master<br>
