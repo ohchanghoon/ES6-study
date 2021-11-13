@@ -11,3 +11,7 @@ const promise2 = new Promise((reslove, reject) => {
 promise1.then((data) => {
   console.log(data);
 });
+
+promise2.then((data) => {
+  console.log(data);
+});
